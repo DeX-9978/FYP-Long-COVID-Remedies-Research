@@ -41,10 +41,10 @@ This study used a bioinformatics pipeline involving the following tools and data
 
 ## 🧪 Tools & Databases
 - **PubChem** (for drug and compound structures)
-- **NPASS** (Natural Product Activity and Species Source)
+- [**NPASS**](https://bidd.group/NPASS/) (Natural Product Activity and Species Source)
 - **UniProt** and **AlphaFold** (for protein structures)
 - **Open Babel** (structure conversion)
-- **iGEMDOCK** (docking simulation)
+- [**iGEMDOCK**](http://gemdock.life.nctu.edu.tw/dock/igemdock.php) (docking simulation)
 
 ---
 ## Key Findings
@@ -58,6 +58,11 @@ This study used a bioinformatics pipeline involving the following tools and data
 ---
 ## Note
 This research does not include any executable scripts or code but utilizes bioinformatics tools and manual analysis, as some tools did not suppot automation. Future work may automate docking or gene expression analysis using Python or R. The scripts in the `scripts/` folder were included recently to allow ease of extracting FASTA sequences from UniProt database and the retrieval of SMILES structrue from PubChem database.
+
+This project has been submitted as a pre-print in the link below:
+[View Manuscript](https://www.preprints.org/manuscript/202408.0890/v1)
+
+For more information on iGEMDOCK, visit [iGEMDOCK](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-12-S1-S33)
 
 ## License
 This project is provided for academic and educational purposes.

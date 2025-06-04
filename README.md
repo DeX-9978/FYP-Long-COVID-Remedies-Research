@@ -19,18 +19,17 @@ This research explores natural remedy candidates and repurposed drugs targeting 
 4. **Molecular Docking**: Performed using iGEMDOCK.
 5. **Analysis**: Top binding affinities used to identify promising therapeutic candidates.
 
-**Author**: Dinesh Davagandhi  
-**Degree**: Bachelor of Biomedical Science (Hons)  
-**University**: Management & Science University  
-**Supervisor**: Dr. Suresh Kumar Sampath Rajan  
-**Date**: May 2023
-
 ## Note
 This research does not include any executable scripts or code but utilizes bioinformatics tools and manual analysis. Future work may automate docking or gene expression analysis using Python or R.
 
 ## License
 This project is provided for academic and educational purposes.
 
+**Author**: Dinesh Davagandhi  
+**Degree**: Bachelor of Biomedical Science (Hons)  
+**University**: Management & Science University  
+**Supervisor**: Dr. Suresh Kumar Sampath Rajan  
+**Date**: May 2023
 ---
 
 > _This repository contains files from the author's final year research project submitted in partial fulfillment of the requirements for a Bachelor's degree._

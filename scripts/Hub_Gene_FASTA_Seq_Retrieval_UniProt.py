@@ -41,5 +41,5 @@ def get_uniprot_fasta_formatted(gene_name, organism_id="9606"):
     for i in range(0, len(sequence), 60):
         print(sequence[i:i+60])
 
-# Example
+# Write the gene ID here to fetch the FASTA Sequence of each gene
 get_uniprot_fasta_formatted("SMAD4")

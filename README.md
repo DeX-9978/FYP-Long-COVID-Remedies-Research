@@ -7,7 +7,8 @@ This research project investigates therapeutic options for Long COVID by identif
 ## Repository Contents
 
 - `thesis/`: Final manuscript, literature review, and formal documentation.
-- `data/`: Docking results and hub gene sequences (FASTA).
+- `data/`: Hub gene sequences (FASTA), hub gene structurres and the natural compounds associated to each symptom based on the repurposed drugs.
+- `results/`: Docking results for each hug-gene and natural compound interaction from iGEMDOCK
 - `presentations/`: Conference and final presentation slide decks.
 - `software/`: Tools used (iGEMDOCK) for molecular docking.
 - `scripts/`: New scripts that were included after completion of project to increase efficiency and automation of the methodology.

@@ -1,7 +1,8 @@
 # Identification of Natural Remedies for Long COVID Using Hub Gene Biomarkers and Repurposed Drugs
+This repository contains a bioinformatics research study identifying potential natural therapeutic compounds for 17 common long COVID symptoms.
 
 ## Overview
-This repository contains a bioinformatics research study identifying potential natural therapeutic compounds for 17 common long COVID symptoms. The study integrates gene biomarkers, FDA-approved drugs, and molecular docking simulations to suggest natural remedies. The study evaluates hub genes associated with long COVID symptoms, identifies repurposed drugs, and maps them to similar natural compounds. Binding affinities were analyzed to propose candidate natural remedies with potential therapeutic value.
+This research project investigates therapeutic options for Long COVID by identifying hub gene biomarkers and evaluating interactions with natural and repurposed drug compounds. The study integrates gene biomarkers, FDA-approved drugs, and molecular docking simulations to suggest natural remedies. Protein sequences were retrieved from UniProt, and molecular docking was performed using iGEMDOCK to assess the binding affinity of selected compounds. The goal is to provide insight into potential treatments for Long COVID symptoms using in-silico methods, without requiring lab-based experimentation. The study offers a computational approach to accelerate drug discovery and support further clinical validation.
 
 ## Repository Contents
 
